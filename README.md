@@ -5,6 +5,7 @@ Step 1. Installing Docker
 Update your existing packages:
 
 sudo apt update
+
 Install a prerequisite packages which let apt utilize HTTPS:
 
 sudo apt install apt-transport-https ca-certificates curl software-properties-common
