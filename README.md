@@ -78,8 +78,9 @@ docker-compose --version
 ```
 
 
-
 > docker-compose version 1.28.5, build c4eb3a1f
 
 
 Now your ready to run our endpoint software. Follow these instructions to continue your NetFoundry containerized journey.
+
+source: https://support.netfoundry.io/hc/en-us/articles/360057865692-Installing-Docker-and-docker-compose-for-Ubuntu-20-04
